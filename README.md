@@ -13,4 +13,4 @@ Click "Run Macro" button to loop through all the stocks for each quarter/sheet.
     I did this way instead of what we did in the last assignment for conditional formatting, because we learned how to change the interior color of a cell in class using VBA.
     I also, with the help of the Xpert Learning Assistant, was able to code an entire column to show as percentages.
 
-I used code provided by the course contant and with the help of the Xpert Learning Assistant.
+I used code provided by the course content and with the help of the Xpert Learning Assistant.
